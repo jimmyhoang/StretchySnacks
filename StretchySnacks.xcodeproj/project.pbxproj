@@ -10,9 +10,9 @@
 		FF5D9C741F0EAE94006858C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5D9C731F0EAE94006858C2 /* AppDelegate.swift */; };
 		FF5D9C761F0EAE94006858C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5D9C751F0EAE94006858C2 /* ViewController.swift */; };
 		FF5D9C791F0EAE94006858C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF5D9C771F0EAE94006858C2 /* Main.storyboard */; };
-		FF5D9C7B1F0EAE94006858C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF5D9C7A1F0EAE94006858C2 /* Assets.xcassets */; };
 		FF5D9C7E1F0EAE94006858C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF5D9C7C1F0EAE94006858C2 /* LaunchScreen.storyboard */; };
 		FF5D9C891F0EAE94006858C2 /* StretchySnacksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5D9C881F0EAE94006858C2 /* StretchySnacksTests.swift */; };
+		FF5D9C941F0EB8D5006858C2 /* Stretchy-NavBar.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF5D9C931F0EB8D5006858C2 /* Stretchy-NavBar.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,12 +30,12 @@
 		FF5D9C731F0EAE94006858C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF5D9C751F0EAE94006858C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FF5D9C781F0EAE94006858C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FF5D9C7A1F0EAE94006858C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF5D9C7D1F0EAE94006858C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF5D9C7F1F0EAE94006858C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF5D9C841F0EAE94006858C2 /* StretchySnacksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StretchySnacksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF5D9C881F0EAE94006858C2 /* StretchySnacksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StretchySnacksTests.swift; sourceTree = "<group>"; };
 		FF5D9C8A1F0EAE94006858C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF5D9C931F0EB8D5006858C2 /* Stretchy-NavBar.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Stretchy-NavBar.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,9 +80,9 @@
 				FF5D9C731F0EAE94006858C2 /* AppDelegate.swift */,
 				FF5D9C751F0EAE94006858C2 /* ViewController.swift */,
 				FF5D9C771F0EAE94006858C2 /* Main.storyboard */,
-				FF5D9C7A1F0EAE94006858C2 /* Assets.xcassets */,
 				FF5D9C7C1F0EAE94006858C2 /* LaunchScreen.storyboard */,
 				FF5D9C7F1F0EAE94006858C2 /* Info.plist */,
+				FF5D9C931F0EB8D5006858C2 /* Stretchy-NavBar.xcassets */,
 			);
 			path = StretchySnacks;
 			sourceTree = "<group>";
@@ -182,8 +182,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF5D9C7E1F0EAE94006858C2 /* LaunchScreen.storyboard in Resources */,
-				FF5D9C7B1F0EAE94006858C2 /* Assets.xcassets in Resources */,
 				FF5D9C791F0EAE94006858C2 /* Main.storyboard in Resources */,
+				FF5D9C941F0EB8D5006858C2 /* Stretchy-NavBar.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
